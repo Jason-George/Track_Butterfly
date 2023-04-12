@@ -8,6 +8,7 @@ plants in the background.
 Thrown with a challenge, i tried to track them and i must say i have been 60% successful.
 
 Here is an example of just tracing where the motions lie in a video of a butterfly and lines being traced is the butterfly.
+The double line is because of the shadow of the buterfly itself and the other spots motion pixels of leaves etc.
 
 ![](https://github.com/Jason-George/Track_Butterfly/blob/main/Gifs/butterfly_2.gif)
 
