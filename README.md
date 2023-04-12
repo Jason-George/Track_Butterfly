@@ -8,4 +8,8 @@ Thrown with a challenge, i tried to track them and i must say i have been 60% su
 
 Here are the videos below:
 
-![VIDEO1](https://youtu.be/mALdHLKWPvI)
+![VIDEO1](https://www.youtube.com/watch?v=mALdHLKWPvI)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=mALdHLKWPvI
+" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=mALdHLKWPvI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
