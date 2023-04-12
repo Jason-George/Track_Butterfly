@@ -12,8 +12,6 @@ The double line is because of the shadow of the buterfly itself and the other sp
 
 ![](https://github.com/Jason-George/Track_Butterfly/blob/main/Gifs/butterfly_2.gif)
 
-Another Example:
-![](https://github.com/Jason-George/Track_Butterfly/blob/main/Gifs/butterfly_3.gif)
 
 
 Here are the videos below, where the motions pixels are superimposed over the actual video.
