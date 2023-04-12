@@ -9,3 +9,10 @@ Thrown with a challenge, i tried to track them and i must say i have been 60% su
 Here are the videos below:
 
 [VIDEO1](https://www.youtube.com/watch?v=mALdHLKWPvI)
+
+[VIDEO2](https://www.youtube.com/watch?v=sUGB1qTzC8E)
+
+[VIDEO3](https://www.youtube.com/watch?v=0tuACc8GNdM)
+
+
+You can contact me @jasoncpaul@gmail.com
